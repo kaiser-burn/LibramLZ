@@ -1,6 +1,6 @@
 # LibramLZ
 
-! [LibramLZ logo] (/LibramLZ/1.0.0/logo.png)
+---
 
 A lightweight mod for PolyTrack that allows LZ: track code shortening. Features both importing an exporting and significantly optimizes track codes. For PolyModLoader/PML 35.7.5
 
